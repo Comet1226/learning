@@ -1,0 +1,33 @@
+/*css 3
+    made by comet
+*/
+
+html,body{
+    display: block;
+    margin:0;
+    padding:0;
+    background-color: bisque;
+}
+
+body{
+    overflow-x: auto;
+}
+#param{
+    width: 100%;
+}
+div#navbar{
+    position: relative;
+    width:100%;
+    height: 100vh;
+    margin-top:10px;
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom:10px;
+    background-color:floralwhite;
+    box-shadow: 0 2rem 4rem 0.25rem rgba(46, 43, 55, 0.575);
+}
+}div#navbar > span{
+    width: 500px; 
+    height: 500px;
+
+}
